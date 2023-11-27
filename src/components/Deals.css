@@ -1,0 +1,13 @@
+
+  .nav-link {
+    color: white; /* Change the default text color to red */
+    text-decoration: none;
+    padding: 0 15px;
+    transition: color 0.3s; /* Add a smooth transition effect for color changes */
+  }
+
+  .nav-link:hover {
+    color: red; /* Change the color on hover to a different color (e.g., yellow) */
+  
+  }
+

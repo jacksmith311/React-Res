@@ -1,0 +1,13 @@
+.card {
+    max-width: 18rem;
+    
+    box-shadow: 5px 10px 18px #888888;
+   background-color: rgb(0, 0, 27);
+}
+
+
+.under{
+    text-decoration: underline;
+    text-decoration-color: red;
+   
+}
